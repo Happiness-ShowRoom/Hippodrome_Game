@@ -4,12 +4,12 @@ IDE console horse racing simulator. Make your bets on one of the horses(Artax, R
 
 ## Installation
 
-Download and install [Node.js](https://nodejs.org/en/download/) to run the Undervalued_RE.
-To install all the required npm modules, on the command line, in the root directory of the framework module, run:
+Download and install [JDK or JRE](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) to run the Hippodrome_Game.
+To make sure the JDK was successfully installed, in command line or terminal run:
 
 
 ```bash
-npm install
+java -version
 ```
 
 ## Usage
