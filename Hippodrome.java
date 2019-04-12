@@ -22,9 +22,9 @@ public class Hippodrome {
 
         game = new Hippodrome(new ArrayList<>());
 
-        game.horses.add(new Horse("Fast", 3, 0));
-        game.horses.add(new Horse("Quick", 3, 0));
-        game.horses.add(new Horse("Strong", 3, 0));
+        game.horses.add(new Horse("Artax", 3, 0));
+        game.horses.add(new Horse("Ruffian", 3, 0));
+        game.horses.add(new Horse("Frankel", 3, 0));
 
         game.run();
         game.printWinner();
